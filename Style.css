@@ -19,7 +19,7 @@
 
 body{
     background: linear-gradient(to right,#FFCBDC 50%,#87CEEB 50%) ;
-  
+    background-attachment: fixed;
 }
 
 
